@@ -1,0 +1,8 @@
+link do git https://git-scm.com/download/win
+ 
+comandos do git 
+cd 
+ls 
+push
+git clone 
+git global
